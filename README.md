@@ -1,12 +1,12 @@
-# Awesome GitHub Profile README Template Collection
+# 💫 About Me:
+I am currently and android developer
 
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CodeWithRizwan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CodeWithRizwan1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRizwan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-A collection of GitHub profile README's examples.
+---
+[![](https://visitcount.itsvg.in/api?id=CodeWithRizwan1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[Contributions](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) are welcome. Read the [Guidelines](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) on how to contribute.
-Feel free to add your or someone else's GitHub profile README file.
-
-Don't forget to hit the :star: if you like this repo.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
