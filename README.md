@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img width="100%" src="https://github.com/user-attachments/assets/e90b4f62-13f5-4257-b7ec-e680ad7b744c" alt="Banner"/>
+<img width="100%" src="https://github.com/rizwandevid/NextJS-Starter-Template/blob/main/public/repository-banner.png?raw=true" alt="Banner"/>
 
 <!-- Animated Title -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=940&lines=👋+Hey!+I'm+Rizwan+Ul+Hassan;Nick+Name:+Rizwan+Devid+⚡;🚀+Full-Stack+Developer;📱+Native+Android+Developer;💻+Crafting+Digital+Experiences;🎯+Building+SaaS+Products;From+Pakistan+with+❤️+🇵🇰" alt="Typing SVG" />
