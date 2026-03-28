@@ -37,85 +37,30 @@ I'm a **self-driven indie developer** who loves turning ideas into polished, rea
 
 ---
 
-## ⚡ Tech Stack
+## 👨🏻‍💻 I Code With
 
-<div align="center">
-
-<br/>
-
-### 🌐 Web Development
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br/>
-      <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" /><br/>
-      <sub><b>React Native</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 📱 Android Development
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" /><br/>
-      <sub><b>Kotlin</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Jetpack Compose" /><br/>
-      <sub><b>Jetpack Compose</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 🛠️ Tools & Workflow
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br/>
-      <sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br/>
-      <sub><b>Vercel</b></sub>
-    </td>
-  </tr>
-</table>
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
 </div>
 
 ---
@@ -124,12 +69,12 @@ I'm a **self-driven indie developer** who loves turning ideas into polished, rea
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rizwanulhassan&show_icons=true&theme=radical&hide_border=true&title_color=F11D0E&icon_color=F11D0E&text_color=ffffff&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanulhassan&theme=radical&hide_border=true&stroke=F11D0E&ring=F11D0E&fire=F11D0E&currStreakLabel=F11D0E&background=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=F11D0E&icon_color=F11D0E&text_color=ffffff&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&stroke=F11D0E&ring=F11D0E&fire=F11D0E&currStreakLabel=F11D0E&background=0d1117" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanulhassan&layout=compact&theme=radical&hide_border=true&title_color=F11D0E&text_color=ffffff&bg_color=0d1117" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=F11D0E&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
@@ -138,9 +83,7 @@ I'm a **self-driven indie developer** who loves turning ideas into polished, rea
 ## 🌊 Contribution Activity
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanulhassan&bg_color=0d1117&color=F11D0E&line=F11D0E&point=ffffff&area=true&hide_border=true" />
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=F11D0E&line=F11D0E&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -165,29 +108,32 @@ I'm a **self-driven indie developer** who loves turning ideas into polished, rea
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-*Always open to collaborating on interesting projects or just talking tech.*
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR@EMAIL.COM" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail" style="margin-bottom: 5px;" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="50" alt="X" style="margin-bottom: 5px;" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram" style="margin-bottom: 5px;" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwanulhassan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devrizii)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizwanulhassan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=rizwanulhassan&label=Profile+Views&color=F11D0E&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=F11D0E&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks+for+Visiting+%F0%9F%9A%80&fontColor=ffffff&fontSize=30&fontAlignY=65&animation=twinkling" width="100%" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F6220A&height=60&text=Thanks+for+Stopping+By+%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontAlign=50&fontAlignY=55" />
