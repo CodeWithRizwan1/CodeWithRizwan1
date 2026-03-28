@@ -48,4 +48,5 @@ I'm a **self-driven indie developer** who loves turning ideas into polished, rea
 </div>
 
 ###
+---
 ⭐ *From [Dev Rizii](https://github.com/yourusername) — Thanks for stopping by.*
