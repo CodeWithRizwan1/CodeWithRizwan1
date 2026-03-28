@@ -10,6 +10,20 @@ Role        : Indie App & Web Developer
 Focus       : Building solo tools that actually matter
 Philosophy  : Ship it. Improve it. Repeat.
 Status      : Always open to exciting opportunities 🚀
+
+── Web Development ──────────────────────────
+Frontend    : Next.js · React · React Native
+Languages   : JavaScript · TypeScript
+Styling     : Tailwind CSS · HTML5 · CSS3
+
+── Android Development ──────────────────────
+Language    : Kotlin
+UI Toolkit  : Jetpack Compose
+
+── Tools & Design ───────────────────────────
+Editor      : VS Code · Android Studio
+Design      : Figma
+Deploy      : Vercel
 ```
 
 <br/>
