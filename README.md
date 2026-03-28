@@ -89,3 +89,5 @@ I'm a **self-driven indie developer** who loves turning ideas into polished, rea
 > 💬 *Got an idea? Let's build something great together — I'm always one message away.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F6220A&height=60&text=Thanks+for+Stopping+By+%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontAlign=50&fontAlignY=55" />
