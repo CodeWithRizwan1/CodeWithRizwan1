@@ -4,7 +4,7 @@
   
   <table width="100%">
     <tr>
-      <td align="center" style="padding: 20px;">
+      <td align="center" >
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=F11D0E&center=true&vCenter=true&width=900&height=60&lines=👋+My+name+is+Rizwan+Ul+Hassan;Nick+Name:+Dev+Rizii;🚀+Full-Stack+Developer;📱+Native+Android+Developer;💻+Full-Stack+Web+Developer;From+Pakistan+with+❤️" alt="Typing SVG" />
         <br><br>
         <img src="https://img.shields.io/badge/✨-Always%20Learning-F11D0E?style=for-the-badge&logoColor=white" />
