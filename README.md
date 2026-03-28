@@ -68,3 +68,24 @@ I'm a **self-driven indie developer** who loves turning ideas into polished, rea
 </div>
 
 ---
+## 🤝 Let's Connect
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-username)
+&nbsp;&nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your@email.com)
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/your-username">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="48" />
+</a>
+&nbsp;&nbsp;&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/your-username)
+
+<br/><br/>
+
+> 💬 *Got an idea? Let's build something great together — I'm always one message away.*
+
+</div>
