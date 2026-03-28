@@ -1,5 +1,4 @@
 <img width="1500" height="500" alt="g" src="https://github.com/user-attachments/assets/3ca89a21-be97-414a-917b-07f94ce79f41" />
-# Hey 👋 What's up?
 
 <div align="center">
   
@@ -20,8 +19,6 @@
 ---
 
 ## 🧑‍💻 Who Am I?
-
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ```yaml
 Name        : Rizwan Ul Hassan
